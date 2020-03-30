@@ -31,7 +31,7 @@ A côté de la partie jeu de sensibilisation je t'explique la structure des autr
     -page_sos.dart: Cecie est dedié à la partie bénévolat 
 
 
-    Pour mieux connaissance de ces dépendances:
+    Pour mieux comprendre le projet, prend connaissance de ces dépendances:
 
         datetime_picker_formfield
 
@@ -44,4 +44,8 @@ A côté de la partie jeu de sensibilisation je t'explique la structure des autr
         frideos_core
 
         shared_preferences
+        
+        sur le site de flutter pub.dev
+
+        Merci nien 
 
