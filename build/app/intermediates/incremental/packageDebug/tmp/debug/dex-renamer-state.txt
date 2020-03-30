@@ -1,0 +1,4 @@
+#Tue Mar 24 11:28:29 UTC 2020
+base.0=C\:\\Users\\ASUS\\Documents\\git_project\\covid_ex\\covid\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
