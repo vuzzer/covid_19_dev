@@ -47,5 +47,5 @@ A côté de la partie jeu de sensibilisation je t'explique la structure des autr
         
         sur le site de flutter pub.dev
 
-        Merci nien 
+        Merci bien 
 
